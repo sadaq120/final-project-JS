@@ -1,8 +1,4 @@
-    /**
-         * 1. INITIAL DATA SET
-         * We define a static list of 20 students. 
-         * 'status' is initially 'None' (unmarked).
-         */
+
         const initialStudents = [
             { id: "B01", name: "Abdirahman Mohamed", status: "None" },
             { id: "B02", name: "Mustafe Hassan", status: "None" },
